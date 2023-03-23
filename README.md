@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World !!! 👋
+# I'm Uncle Sam Mako 😁
+
+I'm a skilled web developer with a passion for building engaging and user-friendly websites. With 5 years of experience in the industry, I've worked on a wide variety of projects ranging from small business websites to large-scale e-commerce platforms.
+
+My expertise includes : HTML, CSS, SASS, Javascript, React, Python, Flask, MySQL, PostgreSQL, etc. I'm always looking to expand my skill set and stay up-to-date with the latest web development trends and best practices.
 
 <!--
 **Uncle-Sam-Mako/Uncle-Sam-Mako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
