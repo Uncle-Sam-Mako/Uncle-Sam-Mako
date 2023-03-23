@@ -5,6 +5,11 @@ I'm a skilled web developer with a passion for building engaging and user-friend
 
 My expertise includes : HTML, CSS, SASS, Javascript, React, Python, Flask, MySQL, PostgreSQL, etc. I'm always looking to expand my skill set and stay up-to-date with the latest web development trends and best practices.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uncle-Sam-Mako&theme=dark&show_icons=true&count_private=true&icon_color=668fff&bg_color=DEG,212121,343B50&border_color=434d58&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dark&count_private=true&&bg_color=DEG,212121,343B50&border_color=434d58&border_radius=20&hide=GLSL,Astro,Rust,Go)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Uncle-Sam-Mako/Uncle-Sam-Mako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
